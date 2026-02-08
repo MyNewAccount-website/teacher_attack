@@ -15,7 +15,7 @@ counter: int = 0
 counter_lock = threading.Lock()
 
 # declare main API endpoint of the server
-API_URL = "https://discord.com/api/webhooks/1456756375722922189/nd6mCxBhCyrlQ305MWqFlPTGKx_AEV0yEfEFoPRUar4uHOoComIUFckjt_ZvuCNwe7aQ"
+API_URL = "https://discord.com/api/webhooks/1470021186766508156/yMvYMqZ2r2BNmYvadn_jh0DteVfD6fe2E8L3n_L3EkAAhO2ok15VpQdrqeYZgBU5pxrG"
 
 # declare main title
 title: str = """
